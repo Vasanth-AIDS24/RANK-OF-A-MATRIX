@@ -11,7 +11,8 @@ To write a python program to find the rank of a matrix
 ### Step 4: 
 ## Program:
 ## Output:
-![Alt text](<Screenshot from 2024-12-02 19-43-17.png>)
+![Screenshot from 2024-12-02 19-43-17](https://github.com/user-attachments/assets/6526de91-cb9e-4de9-8775-47c4d5fe363e)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
